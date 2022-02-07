@@ -1,1 +1,1 @@
-#DELTA
+DELTA
